@@ -1,0 +1,12 @@
+h1 {
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+li {
+    font-size: medium;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* This is a comment in CSS */
+/* CNTRL+ / = Hot key to comment in CSS */
